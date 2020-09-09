@@ -1,3 +1,5 @@
+# Terrorism Analysis with Insights
+
 **Overview**
 
 Protective vehicles are less in numbers with the Army and are distributed uniformly across the area. Similarly, Explosive Detection Dogs ( ED Dogs ) are only less in the entire country. This web application can be used as a Predictive Analysis tool to find the trendline of each kind of Attack ( Bombing, Assassination, Etc.). This tool help in finding the concentration of Attack type - Bombing in the area which would help in allocation of the resources. Visualizing the data gives clear patterns about the data and makes it easy for the analysis. There are two components:
