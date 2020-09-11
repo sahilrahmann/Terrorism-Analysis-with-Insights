@@ -8,6 +8,7 @@ Protective vehicles are less in numbers with the Army and are distributed unifor
 
 **2. Chart Tool ->** It is used to show the Stacked Line Chart images of the frequency of terrorist incidents each year. One can Group first by (Country Attacked, Region, Target Nationality, Target Type, Type of Attack, Weapon Type, Terrorist Organisation) with a search based on the selected Group. Both the components are available separately for the World and India. 
 
+[Click here to see the running application](https://terrorism-analysis-insights.herokuapp.com/)
 
 Two Types of visualization have been used:
 
